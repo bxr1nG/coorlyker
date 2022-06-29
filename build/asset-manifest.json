@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coorlyker/static/css/main.741fde25.css",
+    "main.js": "/coorlyker/static/js/main.7eae6084.js",
+    "static/js/787.5981b6ef.chunk.js": "/coorlyker/static/js/787.5981b6ef.chunk.js",
+    "index.html": "/coorlyker/index.html",
+    "main.741fde25.css.map": "/coorlyker/static/css/main.741fde25.css.map",
+    "main.7eae6084.js.map": "/coorlyker/static/js/main.7eae6084.js.map",
+    "787.5981b6ef.chunk.js.map": "/coorlyker/static/js/787.5981b6ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.741fde25.css",
+    "static/js/main.7eae6084.js"
+  ]
+}
